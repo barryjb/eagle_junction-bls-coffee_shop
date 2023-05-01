@@ -1,0 +1,5 @@
+250423 up to 45:42
+host it at eaglejunction.bestlocal.services/coffeeshop
+create logo-navbar (Sage and Flowers)
+add javascript in footer to automatically update copyright date
+change footer font for "Website Created by barryjb.digital" to a "normal, basic" font and decrease margin-bottom.  Also update with final name of company / business if change from barryjb.digital
